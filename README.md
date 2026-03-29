@@ -22,7 +22,8 @@
 
 <div align="center">
   
-![Pegasus Tool Demo](demo.png)
+![Pegasus Tool Demo](https://github.com/user-attachments/assets/c19aebae-68fd-47ce-b359-90da875ed0b7
+)
 *Pegasus Brute Force Tool Interface*
 
 </div>
@@ -43,4 +44,12 @@
 ```bash
 Python 3.7+
 8GB RAM Recommended
-Multi-core CPU
+
+
+
+
+
+
+
+
+
