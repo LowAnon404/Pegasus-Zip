@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🦅 PEGASUS ZIP BRUTE FORCE 🔓
+#PEGASUS ZIP BRUTE FORCE 🔓
 
 
 ![WhatsApp Image 2026-03-29 at 17 56 29](https://github.com/user-attachments/assets/0cccd723-4e7c-4884-be56-66f2f1878d47)
